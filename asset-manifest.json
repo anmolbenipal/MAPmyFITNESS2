@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MAPmyFITNESS2/static/css/main.0f7fa7d8.css",
+    "main.js": "/MAPmyFITNESS2/static/js/main.47e63765.js",
+    "static/media/remixicon.svg?t=1590207869815": "/MAPmyFITNESS2/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/trainer.png": "/MAPmyFITNESS2/static/media/trainer.d5ac997315b633881155.png",
+    "static/media/remixicon.eot?t=1590207869815": "/MAPmyFITNESS2/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/MAPmyFITNESS2/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/gym-02.png": "/MAPmyFITNESS2/static/media/gym-02.06fd85c2c7a9d0f48978.png",
+    "static/media/remixicon.woff?t=1590207869815": "/MAPmyFITNESS2/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/avatar02.png": "/MAPmyFITNESS2/static/media/avatar02.43d3323871cb17add5e2.png",
+    "static/media/remixicon.woff2?t=1590207869815": "/MAPmyFITNESS2/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/avatar01.png": "/MAPmyFITNESS2/static/media/avatar01.712b9be90c75dec89232.png",
+    "static/media/yoga-pose.png": "/MAPmyFITNESS2/static/media/yoga-pose.1009817918cc6df26064.png",
+    "static/media/extended.png": "/MAPmyFITNESS2/static/media/extended.65fee2ef368e447527a7.png",
+    "static/media/lunges.png": "/MAPmyFITNESS2/static/media/lunges.52e48615ce527a095bcf.png",
+    "index.html": "/MAPmyFITNESS2/index.html",
+    "main.0f7fa7d8.css.map": "/MAPmyFITNESS2/static/css/main.0f7fa7d8.css.map",
+    "main.47e63765.js.map": "/MAPmyFITNESS2/static/js/main.47e63765.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f7fa7d8.css",
+    "static/js/main.47e63765.js"
+  ]
+}
